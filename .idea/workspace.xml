@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34d66f01-a2ee-446e-a103-919e0a4e6ded" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Auth/Auth.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Auth/LoginPage/LoginPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Auth/SignupPage/SignupPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Dynamic/HotelsPage/HotelsPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Dynamic/UsersPage/UsersPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SecuredRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Static/Footer/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Static/Footer/Footer.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Static/MainPage/MainPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Static/MainPage/MainPage.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Static/NavBar/NavBar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Static/NavBar/NavBar.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Static/Utils/Container/Container.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Static/Utils/Container/Container.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Test.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/Auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kjtNX4mARTGvmht3v7rToytbeQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.protractor.protractor_package" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.SCSS" />
+    <property name="ts.external.directory.path" value="C:\Users\PC\AppData\Local\JetBrains\Toolbox\apps\WebStorm\ch-0\203.6682.155\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\dev\front-react-pol\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\dev\front-react-pol\src\services" />
+      <recent name="F:\dev\front-react-pol\src\components\Auth" />
+      <recent name="F:\dev\front-react-pol\src\components" />
+      <recent name="F:\dev\front-react-pol\src\components\Static" />
+      <recent name="F:\dev\front-react-pol\src\components\Static\Utils" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Run" type="ShConfigurationType" editBeforeRun="true">
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="" />
+      <option name="SCRIPT_OPTIONS" value="yarn start" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ShConfigurationType">
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="" />
+      <option name="SCRIPT_OPTIONS" value="yarn start" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34d66f01-a2ee-446e-a103-919e0a4e6ded" name="Default Changelist" comment="" />
+      <created>1606225788501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606225788501</updated>
+      <workItem from="1606225789618" duration="1917000" />
+      <workItem from="1606662739463" duration="13305000" />
+      <workItem from="1606825797544" duration="15065000" />
+      <workItem from="1606855255263" duration="1413000" />
+      <workItem from="1606884903429" duration="7773000" />
+      <workItem from="1606899228199" duration="1270000" />
+      <workItem from="1607177910149" duration="868000" />
+      <workItem from="1607259108553" duration="73000" />
+      <workItem from="1607263405367" duration="1679000" />
+      <workItem from="1607431521364" duration="13550000" />
+      <workItem from="1607881800501" duration="81000" />
+      <workItem from="1610094550899" duration="3206000" />
+      <workItem from="1610199897128" duration="2466000" />
+      <workItem from="1610282123162" duration="4436000" />
+      <workItem from="1610364029006" duration="8450000" />
+      <workItem from="1610636105749" duration="7641000" />
+      <workItem from="1610794235088" duration="4220000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

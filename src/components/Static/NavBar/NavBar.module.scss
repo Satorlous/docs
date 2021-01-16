@@ -1,0 +1,44 @@
+@import "../../../variables";
+
+nav {
+  $height: 60px;
+  width: 100%;
+  background-color: #222222;
+  flex-shrink: 0;
+  color: white;
+
+  a, a:hover, a:visited {
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .caption {
+    font-weight: bold;
+    font-size: 28px;
+  }
+
+  .wrapper {
+    min-height: $height;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .links :not(:last-child) {
+    margin-right: 50px;
+  }
+
+  .links {
+    a {
+      font-size: 16px;
+      font-style: italic;
+      font-weight: 300;
+    }
+
+    & :not(:last-child) {
+      margin-right: 50px;
+    }
+  }
+
+
+}

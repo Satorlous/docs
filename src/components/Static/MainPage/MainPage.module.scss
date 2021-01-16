@@ -1,0 +1,37 @@
+main {
+  margin-top: 50px;
+  flex-grow: 1;
+  height: 100%;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  grid-gap: 50px;
+
+  a {
+    flex-basis: 50%;
+  }
+
+  a, a:hover, a:visited {
+    text-decoration: none;
+    color: inherit;
+  }
+}
+
+.bigbutton {
+  display: flex;
+  font-size: 42px;
+  font-weight: 500;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: center;
+  height: 300px;
+  background: linear-gradient(38.94deg, #FFFFFF -2.46%, rgba(237, 235, 235, 0.540895) 44.9%, rgba(226, 226, 226, 0.45) 58.6%, rgba(237, 237, 237, 0.015625) 105.77%, #FFFFFF 105.78%);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.bigbutton:hover {
+  box-shadow: 4px 4px 6px 0px rgba(0,0,0,0.1);
+  transition: box-shadow 0.1s ease;
+}

@@ -1,0 +1,1 @@
+window.HOST = "http://localhost:1213/api";
