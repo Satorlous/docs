@@ -21,7 +21,7 @@ export default class LoginPage extends React.Component {
          this.context.changeState(true);
          success = true;
       }).catch(error => {
-         Alert.error((error && error.message) || 'Ошибка аторизации. Попробуйте еще раз позже.');
+         Alert.error((error && error.message) || 'Ошибка авторизации. Попробуйте еще раз позже.');
       });
 
       if(success)

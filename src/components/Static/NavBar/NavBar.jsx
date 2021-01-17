@@ -28,7 +28,7 @@ class NavBar extends React.Component {
                   <div className={css.caption}><Link to={'/'}>Управление отелями</Link></div>
                   <div className={css.links}>
                      {links}
-                     <Link to={"/sec"}>SECURED</Link>
+                     <Link to={"/login"}>SECURED</Link>
                      <Button onClick={() => this.onTestClick()}>Test</Button>
                   </div>
                </div>

@@ -11,8 +11,7 @@ export default class Auth {
          headers.append('Authorization', 'Bearer ' + localStorage.getItem(ACCESS_TOKEN))
       }
 
-      const defaults = {headers: headers};
-      options = Object.assign({}, defaults, options);
+      options = Object.assign({}, {headers: headers}, options);
 
       return fetch(options.url, options)
          .then(response =>
@@ -35,8 +34,6 @@ export default class Auth {
          method: 'GET'
       });
    }
-
-
 
    static login(loginRequest) {
       return this.request({

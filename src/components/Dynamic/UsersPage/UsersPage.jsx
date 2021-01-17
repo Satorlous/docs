@@ -31,7 +31,6 @@ export default class UsersPage extends React.Component {
    }
 
 
-
    render() {
       return <Table bordered
                     dataSource={this.state.users}

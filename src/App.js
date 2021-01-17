@@ -17,6 +17,7 @@ import Auth from "./services/Auth";
 import {ACCESS_TOKEN, ROLE_LEVEL, USER_AUTHORIZED} from "./constants"
 import {Button} from "antd";
 import SecuredRoute from "./components/SecuredRoute";
+import SignupPage from "./components/Auth/SignupPage/SignupPage";
 
 class App extends Component {
 
@@ -90,10 +91,12 @@ class App extends Component {
                            <Route exact path="/users" component={UsersPage}/>
                            <Route exact path="/hotels" component={HotelsPage}/>
                            <Route exact path={"/login"} component={() => {
-                              if(!this.state.authorized)
-                                 return <LoginPage/>
-                              else
-                                 return <Redirect to={"/"}/>
+                              if(!this.state.authorized) return <LoginPage/>
+                              else return <Redirect to={"/"}/>
+                           }}/>
+                           <Route exact path={"/signup"} component={() => {
+                              if(!this.state.authorized) return <SignupPage/>
+                              else return <Redirect to={"/"}/>
                            }}/>
                            <Route path={"/logout"} component={() => {
                               this.handleLogout();

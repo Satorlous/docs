@@ -2,31 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34d66f01-a2ee-446e-a103-919e0a4e6ded" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Auth/Auth.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Auth/LoginPage/LoginPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Auth/SignupPage/SignupPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Dynamic/HotelsPage/HotelsPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Dynamic/UsersPage/UsersPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SecuredRoute.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Static/Footer/Footer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Static/Footer/Footer.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Static/MainPage/MainPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Static/MainPage/MainPage.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Static/NavBar/NavBar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Static/NavBar/NavBar.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Static/Utils/Container/Container.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Static/Utils/Container/Container.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Test.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/Auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/settings.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Auth/LoginPage/LoginPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Auth/LoginPage/LoginPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Auth/SignupPage/SignupPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Auth/SignupPage/SignupPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Dynamic/UsersPage/UsersPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dynamic/UsersPage/UsersPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Static/NavBar/NavBar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Static/NavBar/NavBar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/Auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/Auth.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +119,7 @@
       <workItem from="1610282123162" duration="4436000" />
       <workItem from="1610364029006" duration="8450000" />
       <workItem from="1610636105749" duration="7641000" />
-      <workItem from="1610794235088" duration="4220000" />
+      <workItem from="1610794235088" duration="22243000" />
     </task>
     <servers />
   </component>
